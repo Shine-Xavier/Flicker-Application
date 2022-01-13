@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Flicker-Application/static/css/main.e33a75ab.chunk.css",
+    "main.js": "/Flicker-Application/static/js/main.5bce5912.chunk.js",
+    "main.js.map": "/Flicker-Application/static/js/main.5bce5912.chunk.js.map",
+    "runtime-main.js": "/Flicker-Application/static/js/runtime-main.2bd65591.js",
+    "runtime-main.js.map": "/Flicker-Application/static/js/runtime-main.2bd65591.js.map",
+    "static/css/2.b57b7cfd.chunk.css": "/Flicker-Application/static/css/2.b57b7cfd.chunk.css",
+    "static/js/2.b11c7c54.chunk.js": "/Flicker-Application/static/js/2.b11c7c54.chunk.js",
+    "static/js/2.b11c7c54.chunk.js.map": "/Flicker-Application/static/js/2.b11c7c54.chunk.js.map",
+    "static/js/3.9e42bc65.chunk.js": "/Flicker-Application/static/js/3.9e42bc65.chunk.js",
+    "static/js/3.9e42bc65.chunk.js.map": "/Flicker-Application/static/js/3.9e42bc65.chunk.js.map",
+    "index.html": "/Flicker-Application/index.html",
+    "static/css/2.b57b7cfd.chunk.css.map": "/Flicker-Application/static/css/2.b57b7cfd.chunk.css.map",
+    "static/css/main.e33a75ab.chunk.css.map": "/Flicker-Application/static/css/main.e33a75ab.chunk.css.map",
+    "static/js/2.b11c7c54.chunk.js.LICENSE.txt": "/Flicker-Application/static/js/2.b11c7c54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bd65591.js",
+    "static/css/2.b57b7cfd.chunk.css",
+    "static/js/2.b11c7c54.chunk.js",
+    "static/css/main.e33a75ab.chunk.css",
+    "static/js/main.5bce5912.chunk.js"
+  ]
+}
